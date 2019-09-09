@@ -6,11 +6,16 @@
 
 直接做
 
+[code](./uva272.cpp)
+
 ### UVA-10082 WERTRU
 
 题意：QWERTY键盘 右偏一位加密的解密
 
 建立密码对应表，查找即可。
+
+[code](./uva10082.cpp)
+
 
 ### UVA-401 Palindromes
 
@@ -18,3 +23,4 @@
 
 两个判断函数即可，注意"22S"。
 
+[code](./uva401.cpp)
