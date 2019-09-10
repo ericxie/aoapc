@@ -1,6 +1,3 @@
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-
-
 ## 03 数组和字符串
 
 ### UVA-272 Tex Quotes
