@@ -9,7 +9,7 @@ int solve(char *s,char *t){
 }
 
 int main(){
-	char s[1111],t[1111];
+	char s[11111],t[11111];
 	while(scanf("%s %s",s,t)!=EOF){
 		puts(solve(s,t)?"Yes":"No");
 	}
