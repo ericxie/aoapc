@@ -18,7 +18,8 @@ int main(){
 		}
 		if(wrong>6) puts("lose."); 
 		else if(!total) puts("win.");
-		else puts("chickend out.");		
+		else puts("chickened out.");		
 	}
 	return 0;
 }
+ 
