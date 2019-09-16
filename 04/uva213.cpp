@@ -2,6 +2,8 @@
 #include <cstring>
 
 int offset[8];
+char buf[11111],text[11111],cipher[11111];
+
 
 void init(){
 	for(int i=1; i<8; i++) offset[i] = offset[i-1] + (1 << i) - 1;
@@ -35,7 +37,7 @@ void solve(char *text,char *cipher){
 }
 
 int main(){
-	char buf[1111],text[1111],cipher[1111];
+	
 	cipher[0] = 0;
 	init();
 	while(gets(buf)){		
