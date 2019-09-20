@@ -97,11 +97,11 @@ int main(){
 			x = cx + dx[i];
 			y = cy + dy[i];
 			if(in_black(x,y) && !check(x,y,n)){
-				puts("No");
+				puts("NO");
 				break;
 			}
 		}
-		if(i==5) puts("Yes");
+		if(i==5) puts("YES");
 	}
 	return 0;
 }
