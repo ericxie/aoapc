@@ -108,3 +108,12 @@ dfs。
 3. dfs所有的状态，标记同类。
 
 [code](./uva253.cpp)
+
+
+### UVA-1590 IP Networks
+
+题意： 给m个IP地址，求局域网容量最小情况下的起始IP和子网掩码
+
+模拟，将IP地址转成unsigned int，然后枚举即可，起始IP=任一给定IP与掩码的与。
+
+[code](./uva1590.cpp)
