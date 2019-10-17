@@ -9,9 +9,9 @@ Liu Ruijia's AOAPC 2nd , source code by ericxie
 ## 第三章：[数组和字符串](./03/solution.md)
 
 ### 例题
-```diff
-   + UVA-272  + UVA-10082  + UVA-401  + UVA-340  + UVA-1583  + UVA-1584 
-```
+
+<font color="green">UVA-272  UVA-10082  UVA-401  UVA-340  UVA-1583  UVA-1584 </font>
+
 ### 习题
 
    UVA-1585   UVA-1586   UVA-1225   UVA-455   UVA-227   UVA-232   UVA-1368   UVA-202   UVA-10340   UVA-1587   UVA-1588   UVA-11809  
