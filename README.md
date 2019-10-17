@@ -16,28 +16,27 @@ Liu Ruijia's AOAPC 2nd , source code by ericxie
 
 ## 第四章：[函数和递归](./04/solution.md)
 
-### 例题
+[UVA-1339 Anciet Cipher](./04/solution.md#uva-1339-anciet-cipher) [UVA-489 Hangman Game](./04/solution.md#uva-489-hangman-game) [UVA-133 The Dole Queue](./04/solution.md#uva-133-the-dole-queue) [UVA-213 Message Decoding ](./04/solution.md#uva-213-message-decoding-) <br>
+[UVA-512 Spreadsheet Tracking](./04/solution.md#uva-512-spreadsheet-tracking) [UVA-12412 A Typical Homework](./04/solution.md#uva-12412-a-typical-homework) [UVA-1589 Xiangqi](./04/solution.md#uva-1589-xiangqi) [UVA-201 Squares](./04/solution.md#uva-201-squares) <br>
+[UVA-220 Othello](./04/solution.md#uva-220-othello) [UVA-253 Cube painting](./04/solution.md#uva-253-cube-painting) [UVA-1590 IP Networks](./04/solution.md#uva-1590-ip-networks) [UVA-508 Morse Mismatches](./04/solution.md#uva-508-morse-mismatches) <br>
+[UVA-509 RAID!](./04/solution.md#uva-509-raide) [UVA-12108 Extraordinarily Tired Students](./04/solution.md#uva-12108-extraordinarily-tired-students) [UVA-1591 Data Mining](./04/solution.md#uva-1591-data-mining) [UVA-815 Flooded!](./04/solution.md#uva-815-floodedi) <br>
 
-UVA-1339  UVA-489  UVA-133  UVA-213  UVA-512  UVA-12412  
-
-### 习题
-
-   UVA-1589  UVA-201  UVA-220  UVA-253  UVA-1590  UVA-508  UVA-509  UVA-12108  UVA-1591  UVA-815 
 
 ## 第五章：[C++与STL入门](./05/solution.md)
 
-### 例题
+[UVA-10474 Where is the Marble?](./05/solution.md#uva-10474-where-is-the-marble) [UVA-101 The Block Problem](./05/solution.md#uva-101-the-block-problem) [UVA-10815 Andy's First Dictionary](./05/solution.md#uva-10815-andyos-first-dictionary) [UVA-156 Ananagrams](./05/solution.md#uva-156-ananagrams) <br>
+[UVA-12096 The SetStack Computer ](./05/solution.md#uva-12096-the-setstack-computer-) [UVA-540 Team Queue](./05/solution.md#uva-540-team-queue) [UVA-136 Ugly Numbers](./05/solution.md#uva-136-ugly-numbers) [UVA-400 Unix ls](./05/solution.md#uva-400-unix-ls) <br>
+[UVA-1592 Database](./05/solution.md#uva-1592-database) [UVA-207 PGA Tour Prize Money](./05/solution.md#uva-207-pga-tour-prize-money) [UVA-814 The Letter Carrier's Rounds](./05/solution.md#uva-814-the-letter-carrieres-rounds) [UVA-221 Urban Elevations](./05/solution.md#uva-221-urban-elevations) <br>
+[UVA-1593 Aligment of Code](./05/solution.md#uva-1593-aligment-of-code) [UVA-1594 Ducci Sequence](./05/solution.md#uva-1594-ducci-sequence) [UVA-10935 Throwing cards away I](./05/solution.md#uva-10935-throwing-cards-away-i) [UVA-10763 Foreign Exchange](./05/solution.md#uva-10763-foreign-exchange) <br>
+[UVA-10391 Compound Words](./05/solution.md#uva-10391-compound-words)
 
- UVA-10474  UVA-101  UVA-10815  UVA-156  UVA-12096  UVA-540  UVA-136  UVA-400  UVA-1592  UVA-207  UVA-814  UVA-221
-
-### 习题
-
- UVA-1593 UVA-1594 UVA-10935 UVA-10763 UVA-10391 UVA-1595 UVA-12100 UVA-230 UVA-1596 UVA-1597 UVA-12504 UVA-511 UVA-822 UVA-1598 UVA-12333 UVA-212
+UVA-1595 UVA-12100 UVA-230 UVA-1596 UVA-1597 UVA-12504 UVA-511 UVA-822 UVA-1598 UVA-12333 UVA-212
 
 ## 第六章：数据结构基础
 
 ### 例题
- UVA-210 UVA-514 UVA-442 UVA-11988 UVA-12657 UVA-679 UVA-122 UVA-548 UVA-839 UVA-699 UVA-297 UVA-572 UVA-1103 UVA-816 UVA-10305 UVA-10129 UVA-10562 UVA-12171 UVA-1572 UVA-1599 UVA-506 UVA-11853
+
+ UVA-210 UVA-514 UVA-442 UVA-11988 UVA-12657 UVA-679  [UVA-122 Trees on the level](./06/solution.md#uva-122-trees-on-the-level)  UVA-548 UVA-839 UVA-699 UVA-297 UVA-572 UVA-1103 UVA-816 UVA-10305 UVA-10129 UVA-10562 UVA-12171 UVA-1572 UVA-1599 UVA-506 UVA-11853
 
 ### 习题
 
