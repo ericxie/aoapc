@@ -8,13 +8,7 @@ Liu Ruijia's AOAPC 2nd , source code by ericxie
 
 ## 第三章：[数组和字符串](./03/solution.md)
 
-### 例题
-
-- [X] [UVA-272 Tex Quotes](./03/solution.md/#uva-272-tex-quotes) UVA-10082  UVA-401  UVA-340  UVA-1583  UVA-1584 
-
-### 习题
-
-UVA-1585   UVA-1586   UVA-1225   UVA-455   UVA-227   UVA-232   UVA-1368   UVA-202   UVA-10340   UVA-1587   UVA-1588   UVA-11809  
+[UVA-272 Tex Quotes](./03/solution.md#uva-272-tex-quotes) [UVA-10082 WERTRU](./03/solution.md#uva-10082-wertru) [UVA-401 Palindromes](./03/solution.md#uva-401-palindromes) [UVA-340 Master-Mind Hints](./03/solution.md#uva-340-master-mind-hints) [UVA-1583 Digit Generator](./03/solution.md#uva-1583-digit-generator) [UVA-1584 Circular Sequence](./03/solution.md#uva-1584-circular-sequence) [UVA-1585 Score](./03/solution.md#uva-1585-score) [UVA-1586 Molar mass](./03/solution.md#uva-1586-molar-mass) [UVA-1225 Digit Counting](./03/solution.md#uva-1225-digit-counting) [UVA-455 Periodic Strings](./03/solution.md#uva-455-periodic-strings) [UVA-227 Puzzle](./03/solution.md#uva-227-puzzle) [UVA-232 Crossword Answers](./03/solution.md#uva-232-crossword-answers) [UVA-1368 DNA Consensus String](./03/solution.md#uva-1368-dna-consensus-string) [UVA-202 Repeating Decimals](./03/solution.md#uva-202-repeating-decimals) [UVA-10340 All in All](./03/solution.md#uva-10340-all-in-all) [UVA-1587 Box](./03/solution.md#uva-1587-box) [UVA-1588 Kickdown](./03/solution.md#uva-1588-kickdown) [UVA-11809 Floating-Point Numbers](./03/solution.md#uva-11809-floating-point-numbers) 
 
 ## 第四章：[函数和递归](./04/solution.md)
 
