@@ -9,30 +9,31 @@ Liu Ruijia's AOAPC 2nd , source code by ericxie
 ## 第三章：[数组和字符串](./03/solution.md)
 
 ### 例题
-
-   <span style="color:green">UVA-272</span> </span> <span style="color:green">UVA-10082 </span> <span style="color:green">UVA-401 </span> <span style="color:green">UVA-340 </span> <span style="color:green">UVA-1583 </span> <span style="color:green">UVA-1584 </span>
-
+```diff
+   + UVA-272  + UVA-10082  + UVA-401  + UVA-340  + UVA-1583  + UVA-1584 
+```
 ### 习题
 
-  </span> <span style="color:green">UVA-1585  </span> <span style="color:green">UVA-1586  </span> <span style="color:green">UVA-1225  </span> <span style="color:green">UVA-455  </span> <span style="color:green">UVA-227  </span> <span style="color:green">UVA-232  </span> <span style="color:green">UVA-1368  </span> <span style="color:green">UVA-202  </span> <span style="color:green">UVA-10340  </span> <span style="color:green">UVA-1587  </span> <span style="color:green">UVA-1588  </span> <span style="color:green">UVA-11809 </span> 
+   UVA-1585   UVA-1586   UVA-1225   UVA-455   UVA-227   UVA-232   UVA-1368   UVA-202   UVA-10340   UVA-1587   UVA-1588   UVA-11809  
 
 ## 第四章：[函数和递归](./04/solution.md)
 
 ### 例题
 
- </span> <span style="color:green">UVA-1339 </span> <span style="color:green">UVA-489 </span> <span style="color:green">UVA-133 </span> <span style="color:green">UVA-213 </span> <span style="color:green">UVA-512 </span> <span style="color:green">UVA-12412  </span>
+  UVA-1339  UVA-489  UVA-133  UVA-213  UVA-512  UVA-12412  
 
 ### 习题
 
-  </span> <span style="color:green">UVA-1589 </span> <span style="color:green">UVA-201 </span> <span style="color:green">UVA-220 </span> <span style="color:green">UVA-253 </span> <span style="color:green">UVA-1590 </span> <span style="color:green">UVA-508 </span> <span style="color:green">UVA-509 </span> <span style="color:green">UVA-12108 </span> <span style="color:green">UVA-1591 </span> <span style="color:green">UVA-815 </span>
+   UVA-1589  UVA-201  UVA-220  UVA-253  UVA-1590  UVA-508  UVA-509  UVA-12108  UVA-1591  UVA-815 
 
 ## 第五章：[C++与STL入门](./05/solution.md)
 
 ### 例题
 
- <span style="color:green">UVA-10474 </span> <span style="color:green">UVA-101 </span> <span style="color:green">UVA-10815 </span> <span style="color:green">UVA-156 </span> <span style="color:green">UVA-12096 </span> <span style="color:green">UVA-540 </span> <span style="color:green">UVA-136 </span> <span style="color:green">UVA-400 </span> <span style="color:green">UVA-1592 </span> <span style="color:green">UVA-207 </span> <span style="color:green">UVA-814 </span> <span style="color:green">UVA-221</span>
+ UVA-10474  UVA-101  UVA-10815  UVA-156  UVA-12096  UVA-540  UVA-136  UVA-400  UVA-1592  UVA-207  UVA-814  UVA-221
 
 ### 习题
+
  UVA-1593 UVA-1594 UVA-10935 UVA-10763 UVA-10391 UVA-1595 UVA-12100 UVA-230 UVA-1596 UVA-1597 UVA-12504 UVA-511 UVA-822 UVA-1598 UVA-12333 UVA-212
 
 ## 第六章：数据结构基础
