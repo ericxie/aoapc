@@ -10,17 +10,17 @@ Liu Ruijia's AOAPC 2nd , source code by ericxie
 
 ### 例题
 
-[UVA-272](./03/solution.md#uva-272)  [UVA-10082](./03/solution.md#UVA-10082)  [UVA-401](./03/solution.md#UVA-401)  [UVA-340](./03/solution.md#UVA-340)  [UVA-1583](./03/solution.md#UVA-1583)  [UVA-1584](./03/solution.md#UVA-1584) 
+- [X] [UVA-272 Tex Quotes](./03/solution.md/#uva-272-tex-quotes) UVA-10082  UVA-401  UVA-340  UVA-1583  UVA-1584 
 
 ### 习题
 
-   [UVA-1585](./03/solution.md#UVA-1585)   [UVA-1586](./03/solution.md#UVA-1586)   [UVA-1225](./03/solution.md#UVA-1225)   [UVA-455](./03/solution.md#UVA-455)   [UVA-227](./03/solution.md#UVA-227)   [UVA-232](./03/solution.md#UVA-232)   [UVA-1368](./03/solution.md#UVA-1368)   [UVA-202](./03/solution.md#UVA-202)   [UVA-10340](./03/solution.md#UVA-10340)   [UVA-1587](./03/solution.md#UVA-1587)   [UVA-1588](./03/solution.md#UVA-1588)   [UVA-11809](./03/solution.md#UVA-11809)  
+UVA-1585   UVA-1586   UVA-1225   UVA-455   UVA-227   UVA-232   UVA-1368   UVA-202   UVA-10340   UVA-1587   UVA-1588   UVA-11809  
 
 ## 第四章：[函数和递归](./04/solution.md)
 
 ### 例题
 
-  UVA-1339  UVA-489  UVA-133  UVA-213  UVA-512  UVA-12412  
+UVA-1339  UVA-489  UVA-133  UVA-213  UVA-512  UVA-12412  
 
 ### 习题
 
