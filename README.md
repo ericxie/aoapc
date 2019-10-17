@@ -11,12 +11,7 @@ Liu Ruijia's AOAPC 2nd , source code by ericxie
 ### 例题
 
 ```diff
-+ UVA-272  
-+ UVA-10082  
-+ UVA-401  
-+ UVA-340  
-+ UVA-1583  
-+ UVA-1584 
++ UVA-272 + UVA-10082  + UVA-401 + UVA-340  + UVA-1583  + UVA-1584 
 ```
 
 ### 习题
