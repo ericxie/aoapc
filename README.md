@@ -19,7 +19,7 @@ Liu Ruijia's AOAPC 2nd , source code by ericxie
 [UVA-1339 Anciet Cipher](./04/solution.md#uva-1339-anciet-cipher) [UVA-489 Hangman Game](./04/solution.md#uva-489-hangman-game) [UVA-133 The Dole Queue](./04/solution.md#uva-133-the-dole-queue) [UVA-213 Message Decoding ](./04/solution.md#uva-213-message-decoding-) <br>
 [UVA-512 Spreadsheet Tracking](./04/solution.md#uva-512-spreadsheet-tracking) [UVA-12412 A Typical Homework](./04/solution.md#uva-12412-a-typical-homework) [UVA-1589 Xiangqi](./04/solution.md#uva-1589-xiangqi) [UVA-201 Squares](./04/solution.md#uva-201-squares) <br>
 [UVA-220 Othello](./04/solution.md#uva-220-othello) [UVA-253 Cube painting](./04/solution.md#uva-253-cube-painting) [UVA-1590 IP Networks](./04/solution.md#uva-1590-ip-networks) [UVA-508 Morse Mismatches](./04/solution.md#uva-508-morse-mismatches) <br>
-[UVA-509 RAID!](./04/solution.md#uva-509-raide) [UVA-12108 Extraordinarily Tired Students](./04/solution.md#uva-12108-extraordinarily-tired-students) [UVA-1591 Data Mining](./04/solution.md#uva-1591-data-mining) [UVA-815 Flooded!](./04/solution.md#uva-815-floodedi) <br>
+[UVA-509 RAID!](./04/solution.md#uva-509-raid) [UVA-12108 Extraordinarily Tired Students](./04/solution.md#uva-12108-extraordinarily-tired-students) [UVA-1591 Data Mining](./04/solution.md#uva-1591-data-mining) [UVA-815 Flooded!](./04/solution.md#uva-815-flooded) <br>
 
 
 ## 第五章：[C++与STL入门](./05/solution.md)
