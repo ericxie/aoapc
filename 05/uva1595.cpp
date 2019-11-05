@@ -35,12 +35,12 @@ int main(){
 			auto ret = get(it,last);
 			if(flag) cx = ret.second, flag = false;
 			if(!ret.first || cx != ret.second){
-				puts("No");
+				puts("NO");
 				goto next_case;
 			} 
 			it = last;
 		}
-		puts("Yes");
+		puts("YES");
 		next_case: ;
 	}	
 }
