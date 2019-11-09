@@ -24,19 +24,25 @@ Liu Ruijia's AOAPC 2nd , source code by ericxie
 
 ## 第五章：[C++与STL入门](./05/solution.md)
 
-[UVA-10474 Where is the Marble?](./05/solution.md#uva-10474-where-is-the-marble) [UVA-101 The Block Problem](./05/solution.md#uva-101-the-block-problem) [UVA-10815 Andy's First Dictionary](./05/solution.md#uva-10815-andyos-first-dictionary) [UVA-156 Ananagrams](./05/solution.md#uva-156-ananagrams) <br>
-[UVA-12096 The SetStack Computer ](./05/solution.md#uva-12096-the-setstack-computer-) [UVA-540 Team Queue](./05/solution.md#uva-540-team-queue) [UVA-136 Ugly Numbers](./05/solution.md#uva-136-ugly-numbers) [UVA-400 Unix ls](./05/solution.md#uva-400-unix-ls) <br>
-[UVA-1592 Database](./05/solution.md#uva-1592-database) [UVA-207 PGA Tour Prize Money](./05/solution.md#uva-207-pga-tour-prize-money) [UVA-814 The Letter Carrier's Rounds](./05/solution.md#uva-814-the-letter-carrieres-rounds) [UVA-221 Urban Elevations](./05/solution.md#uva-221-urban-elevations) <br>
+[UVA-10474 Where is the Marble?](./05/solution.md#uva-10474-where-is-the-marble) [UVA-101 The Block Problem](./05/solution.md#uva-101-the-block-problem) [UVA-10815 Andy's First Dictionary](./05/solution.md#uva-10815-andys-first-dictionary) [UVA-156 Ananagrams](./05/solution.md#uva-156-ananagrams) <br>
+[UVA-12096 The SetStack Computer](./05/solution.md#uva-12096-the-setstack-computer) [UVA-540 Team Queue](./05/solution.md#uva-540-team-queue) [UVA-136 Ugly Numbers](./05/solution.md#uva-136-ugly-numbers) [UVA-400 Unix ls](./05/solution.md#uva-400-unix-ls) <br>
+[UVA-1592 Database](./05/solution.md#uva-1592-database) [UVA-207 PGA Tour Prize Money](./05/solution.md#uva-207-pga-tour-prize-money) [UVA-814 The Letter Carrier's Rounds](./05/solution.md#uva-814-the-letter-carriers-rounds) [UVA-221 Urban Elevations](./05/solution.md#uva-221-urban-elevations) <br>
 [UVA-1593 Aligment of Code](./05/solution.md#uva-1593-aligment-of-code) [UVA-1594 Ducci Sequence](./05/solution.md#uva-1594-ducci-sequence) [UVA-10935 Throwing cards away I](./05/solution.md#uva-10935-throwing-cards-away-i) [UVA-10763 Foreign Exchange](./05/solution.md#uva-10763-foreign-exchange) <br>
-[UVA-10391 Compound Words](./05/solution.md#uva-10391-compound-words)
+[UVA-10391 Compound Words](./05/solution.md#uva-10391-compound-words) [UVA-1595 Symmetry](./05/solution.md#uva-1595-symmetry) [UVA-12100 Printer Queue](./05/solution.md#uva-12100-printer-queue) [UVA-230 Borrowers](./05/solution.md#uva-230-borrowers) <br>
+[UVA-1596 Bug Hunt](./05/solution.md#uva-1596-bug-hunt) [UVA-1597 Searching the Web](./05/solution.md#uva-1597-searching-the-web) [UVA-12504 Updating a Dictionary](./05/solution.md#uva-12504-updating-a-dictionary) [UVA-511 Do You Know the Way to San Jose?](./05/solution.md#uva-511-do-you-know-the-way-to-san-jose) <br>
+[UVA-12333 Revenge of Fibonacci](./05/solution.md#uva-12333-revenge-of-fibonacci) 
 
-UVA-1595 UVA-12100 UVA-230 UVA-1596 UVA-1597 UVA-12504 UVA-511 UVA-822 UVA-1598 UVA-12333 UVA-212
+UVA-822 UVA-1598 UVA-212
 
-## 第六章：数据结构基础
+## 第六章：[数据结构基础](./06/solution.md)
 
 ### 例题
-
- UVA-210 UVA-514 UVA-442 UVA-11988 UVA-12657 UVA-679  [UVA-122 Trees on the level](./06/solution.md#uva-122-trees-on-the-level)  UVA-548 UVA-839 UVA-699 UVA-297 UVA-572 UVA-1103 UVA-816 UVA-10305 UVA-10129 UVA-10562 UVA-12171 UVA-1572 UVA-1599 UVA-506 UVA-11853
+UVA-210
+[UVA-514 Rails](./06/solution.md#uva-514-rails) [UVA-442 Matrix Chain Multiplication](./06/solution.md#uva-442-matrix-chain-multiplication) <br>
+[UVA-11988 Broken Keyboard](./06/solution.md#uva-11988-broken-keyboard) [UVA-12657 Boxes in a Line](./06/solution.md#uva-12657-boxes-in-a-line) [UVA-679 Dropping Balls](./06/solution.md#uva-679-dropping-balls) [UVA-122 Trees on the level](./06/solution.md#uva-122-trees-on-the-level) <br>
+[UVA-548 Tree](./06/solution.md#uva-548-tree) [UVA-839 Not so Mobile](./06/solution.md#uva-839-not-so-mobile) [UVA-699 The Falling Leaves](./06/solution.md#uva-699-the-falling-leaves) [UVA-297 Quadtrees](./06/solution.md#uva-297-quadtrees) <br>
+[UVA-572 Oil Deposits](./06/solution.md#uva-572-oil-deposits) [UVA-1103 Ancient Messages](./06/solution.md#uva-1103-ancient-messages) [UVA-816 Abbott's Revenge](./06/solution.md#uva-816-abbotts-revenge)  
+UVA-10305 UVA-10129 UVA-10562 UVA-12171 UVA-1572 UVA-1599 UVA-506 UVA-11853
 
 ### 习题
 
