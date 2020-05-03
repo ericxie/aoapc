@@ -19,7 +19,7 @@ void readEdge(size_t n,size_t m){
 		scanf("%d %d %d",&u,&v,&c);
 		if(u != v){
 			G[u].emplace_back(v,c);
-			G[v].emplace_back(u,c);
+			G[v].emplace_back(u,c);+
 		}
 	}
 }
