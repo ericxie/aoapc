@@ -38,15 +38,17 @@ UVA-822 UVA-1598 UVA-212
 
 ### 例题
 UVA-210
-[UVA-514 Rails](./06/solution.md#uva-514-rails) [UVA-442 Matrix Chain Multiplication](./06/solution.md#uva-442-matrix-chain-multiplication) <br>
-[UVA-11988 Broken Keyboard](./06/solution.md#uva-11988-broken-keyboard) [UVA-12657 Boxes in a Line](./06/solution.md#uva-12657-boxes-in-a-line) [UVA-679 Dropping Balls](./06/solution.md#uva-679-dropping-balls) [UVA-122 Trees on the level](./06/solution.md#uva-122-trees-on-the-level) <br>
-[UVA-548 Tree](./06/solution.md#uva-548-tree) [UVA-839 Not so Mobile](./06/solution.md#uva-839-not-so-mobile) [UVA-699 The Falling Leaves](./06/solution.md#uva-699-the-falling-leaves) [UVA-297 Quadtrees](./06/solution.md#uva-297-quadtrees) <br>
-[UVA-572 Oil Deposits](./06/solution.md#uva-572-oil-deposits) [UVA-1103 Ancient Messages](./06/solution.md#uva-1103-ancient-messages) [UVA-816 Abbott's Revenge](./06/solution.md#uva-816-abbotts-revenge)  
-UVA-10305 UVA-10129 UVA-10562 UVA-12171 UVA-1572 UVA-1599 UVA-506 UVA-11853
+UVA-12171 UVA-11853
 
-### 习题
+ [UVA-514 Rails](./06/solution.md#uva-514-rails) [UVA-442 Matrix Chain Multiplication](./06/solution.md#uva-442-matrix-chain-multiplication) [UVA-11988 Broken Keyboard](./06/solution.md#uva-11988-broken-keyboard) [UVA-12657 Boxes in a Line](./06/solution.md#uva-12657-boxes-in-a-line) <br>
+[UVA-679 Dropping Balls](./06/solution.md#uva-679-dropping-balls) [UVA-122 Trees on the level](./06/solution.md#uva-122-trees-on-the-level) [UVA-548 Tree](./06/solution.md#uva-548-tree) [UVA-839 Not so Mobile](./06/solution.md#uva-839-not-so-mobile) <br>
+[UVA-699 The Falling Leaves](./06/solution.md#uva-699-the-falling-leaves) [UVA-297 Quadtrees](./06/solution.md#uva-297-quadtrees) [UVA-572 Oil Deposits](./06/solution.md#uva-572-oil-deposits) [UVA-1103 Ancient Messages](./06/solution.md#uva-1103-ancient-messages) <br>
+[UVA-816 Abbott's Revenge](./06/solution.md#uva-816-abbotts-revenge) [UVA-10129 Play on Words](./06/solution.md#uva-10129-play-on-words) [UVA-10562 Undraw the Trees](./06/solution.md#uva-10562-undraw-the-trees) [UVA-1572 Self-Assembly](./06/solution.md#uva-1572-self-assembly) <br>
+[UVA-1599 Ideal Path](./06/solution.md#uva-1599-ideal-path) [UVA-506 System Dependencies](./06/solution.md#uva-506-system-dependencies) [UVA-673 Parentheses Balance](./06/solution.md#uva-673-parentheses-balance) [UVA-712 S-Trees](./06/solution.md#uva-712-s-trees) <br>
+[UVA-536 Tree Recovery](./06/solution.md#uva-536-tree-recovery) [UVA-439 Knight Moves](./06/solution.md#uva-439-knight-moves) [UVA-1600 Patrol Robot](./06/solution.md#uva-1600-patrol-robot) [UVA-12166 Equilibrium Mobile](./06/solution.md#uva-12166-equilibrium-mobile) <br>
+[UVA-804 Petri Net Simulation](./06/solution.md#uva-804-petri-net-simulation) [UVA-806 Spatial Structures](./06/solution.md#uva-806-spatial-structures) [UVA-127 "Accordian" Patience](./06/solution.md#uva-127-accordian-patience) [UVA-246 10-20-30](./06/solution.md#uva-246-10-20-30) <br>
+[UVA-10410 Tree Reconstruction](./06/solution.md#uva-10410-tree-reconstruction) [UVA-810 A Dicey Problem](./06/solution.md#uva-810-a-dicey-problem) [UVA-215 Spreadsheet Calculator](./06/solution.md#uva-215-spreadsheet-calculator) [UVA-12118 Inspector's Dilemma](./06/solution.md#uva-12118-inspectors-dilemma) <br>
 
- UVA-673 UVA-712 UVA-536 UVA-439 UVA-1600 UVA-12166 UVA-804 UVA-806 UVA-127 UVA-246 UVA-10410 UVA-810 UVA-215 UVA-12118
 
 ## 第七章：暴力求解法
 
