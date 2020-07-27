@@ -11,6 +11,7 @@ struct student{
 	void next(bool tag){
 		if(c==a){
 			if(tag) c++;
+			else c = 1;
 		} else {
 			c++;
 			if(c>a+b) c = 1;
