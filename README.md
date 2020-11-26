@@ -54,7 +54,11 @@ UVA-12171 UVA-11853
 
 ### 例题
 
- UVA-725 UVA-11059 UVA-10976 UVA-524 UVA-129 UVA-140 UVA-1354 UVA-10603 UVA-1601 UVA-11212 UVA-12325 UVA-1343 UVA-1374 UVA-1602 UVA-1603
+[UVA-725 Division](./07/solution.md#uva-725-division) [UVA-11059 Maximum Product](./07/solution.md#uva-11059-maximum-product) [UVA-10976 Fractions Again?!](./07/solution.md#uva-10976-fractions-again) [UVA-524 Prime Ring Problem](./07/solution.md#uva-524-prime-ring-problem) <br>
+[UVA-129 Krypton Factor](./07/solution.md#uva-129-krypton-factor) [UVA-140 Bandwidth](./07/solution.md#uva-140-bandwidth) [UVA-1354 Mobile Computing](./07/solution.md#uva-1354-mobile-computing) [UVA-10603 Fill](./07/solution.md#uva-10603-fill) <br>
+[UVA-1601 The Morning after Halloween](./07/solution.md#uva-1601-the-morning-after-halloween) [UVA-11212 Editing a Book](./07/solution.md#uva-11212-editing-a-book) [UVA-12325 Zombie's Treasure Chest](./07/solution.md#uva-12325-zombies-treasure-chest) [UVA-1343 The Rotation Game](./07/solution.md#uva-1343-the-rotation-game) <br>
+[UVA-1374 Power Calculus](./07/solution.md#uva-1374-power-calculus) [UVA-1602 Lattice Animals](./07/solution.md#uva-1602-lattice-animals) [UVA-1603 Square Destroyer](./07/solution.md#uva-1603-square-destroyer) 
+
 
 ### 习题
 
