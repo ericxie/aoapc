@@ -78,7 +78,12 @@ UVA-12171 UVA-11853
 
 ### 例题
 
- UVA-1025 UVA-437 UVA-1347 UVA-116 UVA-12563 UVA-11400 UVA-11584 UVA-1625 UVA-10003 UVA-1626 UVA-1331 UVA-12186 UVA-1220 UVA-1218 UVA-10817 UVA-1252 UVA-1412 UVA-10618 UVA-1627 UVA-10934 UVA-1336 UVA-12105 UVA-1204 UVA-12099 UVA-12170 UVA-1380 UVA-10559 UVA-1439 UVA-1228 UVA-1375 UVA-1628
+[UVA-1025 A Spy in the Metro](./09/solution.md#uva-1025-a-spy-in-the-metro) [UVA-437 The Tower of Babylon](./09/solution.md#uva-437-the-tower-of-babylon) [UVA-1347 Tour](./09/solution.md#uva-1347-tour) [UVA-116 Unidirectional TSP](./09/solution.md#uva-116-unidirectional-tsp) <br>
+[UVA-12563 Jin Ge Jin Qu hao](./09/solution.md#uva-12563-jin-ge-jin-qu-hao) [UVA-11400 Lighting System Design](./09/solution.md#uva-11400-lighting-system-design) [UVA-11584 Partitioning by Palindromes](./09/solution.md#uva-11584-partitioning-by-palindromes) [UVA-1625 Color Length](./09/solution.md#uva-1625-color-length) <br>
+[UVA-10003 Cutting Sticks](./09/solution.md#uva-10003-cutting-sticks) [UVA-1620 Brackets sequence](./09/solution.md#uva-1620-brackets-sequence) [UVA-12186 Another Crisis](./09/solution.md#uva-12186-another-crisis) [UVA-1220 Party at Hali-Bula](./09/solution.md#uva-1220-party-at-hali-bula) <br>
+[UVA-1218 Perfect Service](./09/solution.md#uva-1218-perfect-service) [UVA-10817  Headmaster's Headache](./09/solution.md#uva-10817-headmasters-headache) 
+
+UVA-1331 UVA-1252 UVA-1412 UVA-10618 UVA-1627 UVA-10934 UVA-1336 UVA-12105 UVA-1204 UVA-12099 UVA-12170 UVA-1380 UVA-10559 UVA-1439 UVA-1228 UVA-1375 UVA-1628
 
 ### 习题
 
