@@ -36,7 +36,6 @@ UVA-822 UVA-1598 UVA-212
 
 ## 第六章：[数据结构基础](./06/solution.md)
 
-### 例题
 UVA-210
 UVA-12171 UVA-11853
 
@@ -52,17 +51,13 @@ UVA-12171 UVA-11853
 
 ## 第七章：暴力求解法
 
-### 例题
-
 [UVA-725 Division](./07/solution.md#uva-725-division) [UVA-11059 Maximum Product](./07/solution.md#uva-11059-maximum-product) [UVA-10976 Fractions Again?!](./07/solution.md#uva-10976-fractions-again) [UVA-524 Prime Ring Problem](./07/solution.md#uva-524-prime-ring-problem) <br>
 [UVA-129 Krypton Factor](./07/solution.md#uva-129-krypton-factor) [UVA-140 Bandwidth](./07/solution.md#uva-140-bandwidth) [UVA-1354 Mobile Computing](./07/solution.md#uva-1354-mobile-computing) [UVA-10603 Fill](./07/solution.md#uva-10603-fill) <br>
 [UVA-1601 The Morning after Halloween](./07/solution.md#uva-1601-the-morning-after-halloween) [UVA-11212 Editing a Book](./07/solution.md#uva-11212-editing-a-book) [UVA-12325 Zombie's Treasure Chest](./07/solution.md#uva-12325-zombies-treasure-chest) [UVA-1343 The Rotation Game](./07/solution.md#uva-1343-the-rotation-game) <br>
-[UVA-1374 Power Calculus](./07/solution.md#uva-1374-power-calculus) [UVA-1602 Lattice Animals](./07/solution.md#uva-1602-lattice-animals) [UVA-1603 Square Destroyer](./07/solution.md#uva-1603-square-destroyer) 
+[UVA-1374 Power Calculus](./07/solution.md#uva-1374-power-calculus) [UVA-1602 Lattice Animals](./07/solution.md#uva-1602-lattice-animals) [UVA-1603 Square Destroyer](./07/solution.md#uva-1603-square-destroyer) [UVA-208 Firetruck](./07/solution.md#uva-208-firetruck) <br>
+[UVA-225 Golygons](./07/solution.md#uva-225-golygons) [UVA-211 The Domino Effect](./07/solution.md#uva-211-the-domino-effect) [UVA-818 Cutting Chains](./07/solution.md#uva-818-cutting-chains) [UVA-690 Pipeline Scheduling](./07/solution.md#uva-690-pipeline-scheduling) <br>
 
-
-### 习题
-
- UVA-208 UVA-225 UVA-211 UVA-818 UVA-690 UVA-12113 UVA-12558 UVA-12107 UVA-1604 UVA-11214 UVA-12569 UVA-1533 UVA-817 UVA-307 UVA-11882 UVA-11846 UVA-11694 UVA-10384
+UVA-12113 UVA-12558 UVA-12107 UVA-1604 UVA-11214 UVA-12569 UVA-1533 UVA-817 UVA-307 UVA-11882 UVA-11846 UVA-11694 UVA-10384
 
 ## 第八章：高效算法设计
 
