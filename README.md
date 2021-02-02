@@ -49,7 +49,7 @@ UVA-12171 UVA-11853
 [UVA-10410 Tree Reconstruction](./06/solution.md#uva-10410-tree-reconstruction) [UVA-810 A Dicey Problem](./06/solution.md#uva-810-a-dicey-problem) [UVA-215 Spreadsheet Calculator](./06/solution.md#uva-215-spreadsheet-calculator) [UVA-12118 Inspector's Dilemma](./06/solution.md#uva-12118-inspectors-dilemma) <br>
 
 
-## 第七章：暴力求解法(./07/solution.md)
+## 第七章：[暴力求解法](./07/solution.md)
 
 [UVA-725 Division](./07/solution.md#uva-725-division) [UVA-11059 Maximum Product](./07/solution.md#uva-11059-maximum-product) [UVA-10976 Fractions Again?!](./07/solution.md#uva-10976-fractions-again) [UVA-524 Prime Ring Problem](./07/solution.md#uva-524-prime-ring-problem) <br>
 [UVA-129 Krypton Factor](./07/solution.md#uva-129-krypton-factor) [UVA-140 Bandwidth](./07/solution.md#uva-140-bandwidth) [UVA-1354 Mobile Computing](./07/solution.md#uva-1354-mobile-computing) [UVA-10603 Fill](./07/solution.md#uva-10603-fill) <br>
