@@ -49,15 +49,17 @@ UVA-12171 UVA-11853
 [UVA-10410 Tree Reconstruction](./06/solution.md#uva-10410-tree-reconstruction) [UVA-810 A Dicey Problem](./06/solution.md#uva-810-a-dicey-problem) [UVA-215 Spreadsheet Calculator](./06/solution.md#uva-215-spreadsheet-calculator) [UVA-12118 Inspector's Dilemma](./06/solution.md#uva-12118-inspectors-dilemma) <br>
 
 
-## 第七章：暴力求解法
+## 第七章：暴力求解法(./07/solution.md)
 
 [UVA-725 Division](./07/solution.md#uva-725-division) [UVA-11059 Maximum Product](./07/solution.md#uva-11059-maximum-product) [UVA-10976 Fractions Again?!](./07/solution.md#uva-10976-fractions-again) [UVA-524 Prime Ring Problem](./07/solution.md#uva-524-prime-ring-problem) <br>
 [UVA-129 Krypton Factor](./07/solution.md#uva-129-krypton-factor) [UVA-140 Bandwidth](./07/solution.md#uva-140-bandwidth) [UVA-1354 Mobile Computing](./07/solution.md#uva-1354-mobile-computing) [UVA-10603 Fill](./07/solution.md#uva-10603-fill) <br>
 [UVA-1601 The Morning after Halloween](./07/solution.md#uva-1601-the-morning-after-halloween) [UVA-11212 Editing a Book](./07/solution.md#uva-11212-editing-a-book) [UVA-12325 Zombie's Treasure Chest](./07/solution.md#uva-12325-zombies-treasure-chest) [UVA-1343 The Rotation Game](./07/solution.md#uva-1343-the-rotation-game) <br>
 [UVA-1374 Power Calculus](./07/solution.md#uva-1374-power-calculus) [UVA-1602 Lattice Animals](./07/solution.md#uva-1602-lattice-animals) [UVA-1603 Square Destroyer](./07/solution.md#uva-1603-square-destroyer) [UVA-208 Firetruck](./07/solution.md#uva-208-firetruck) <br>
 [UVA-225 Golygons](./07/solution.md#uva-225-golygons) [UVA-211 The Domino Effect](./07/solution.md#uva-211-the-domino-effect) [UVA-818 Cutting Chains](./07/solution.md#uva-818-cutting-chains) [UVA-690 Pipeline Scheduling](./07/solution.md#uva-690-pipeline-scheduling) <br>
-
-UVA-12113 UVA-12558 UVA-12107 UVA-1604 UVA-11214 UVA-12569 UVA-1533 UVA-817 UVA-307 UVA-11882 UVA-11846 UVA-11694 UVA-10384
+[UVA-12113 Overlapping Squares](./07/solution.md#uva-12113-overlapping-squares) [UVA-12558 Egyptian Fractions (HARD version)](./07/solution.md#uva-12558-egyptian-fractions-hard-version) [UVA-12107 Digit Puzzle](./07/solution.md#uva-12107-digit-puzzle) [UVA-1604 Cubic Eight-Puzzle](./07/solution.md#uva-1604-cubic-eight-puzzle) <br>
+[UVA-11214 Guarding the Chessboard](./07/solution.md#uva-11214-guarding-the-chessboard) [UVA-12569 Planning mobile robot on Tree (EASY Version)](./07/solution.md#uva-12569-planning-mobile-robot-on-tree-easy-version) [UVA-1533 Moving Pegs](./07/solution.md#uva-1533-moving-pegs) [UVA-817 According to Bartjens](./07/solution.md#uva-817-according-to-bartjens) <br>
+[UVA-307 Sticks](./07/solution.md#uva-307-sticks) [UVA-11882 Biggest Number](./07/solution.md#uva-11882-biggest-number) [UVA-11846 Finding Seats Again](./07/solution.md#uva-11846-finding-seats-again) [UVA-11694 Gokigen Naname](./07/solution.md#uva-11694-gokigen-naname) <br>
+[UVA-10384 The Wall Pushers](./07/solution.md#uva-10384-the-wall-pushers) 
 
 ## 第八章：高效算法设计
 
